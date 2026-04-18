@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\agprac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|c:\\users\\umer\\source\\repos\\agprac\\agprac\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|solutionrelative:agprac\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|c:\\users\\umer\\source\\repos\\agprac\\agprac\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|solutionrelative:agprac\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|c:\\users\\umer\\source\\repos\\agprac\\agprac\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|solutionrelative:agprac\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|c:\\users\\umer\\source\\repos\\agprac\\agprac\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|solutionrelative:agprac\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|c:\\users\\umer\\source\\repos\\agprac\\agprac\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E7A28F6-5522-4BD0-AAD9-9B79A0D53077}|agprac\\agprac.csproj|solutionrelative:agprac\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "delete.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\delete.aspx.cs",
+              "RelativeDocumentMoniker": "agprac\\delete.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\delete.aspx.cs",
+              "RelativeToolTip": "agprac\\delete.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:48:15.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\delete.aspx",
+              "RelativeDocumentMoniker": "agprac\\delete.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\delete.aspx",
+              "RelativeToolTip": "agprac\\delete.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-22T17:47:41.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\update.aspx.cs",
+              "RelativeDocumentMoniker": "agprac\\update.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\update.aspx.cs",
+              "RelativeToolTip": "agprac\\update.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:41:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\add.aspx",
+              "RelativeDocumentMoniker": "agprac\\add.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\add.aspx",
+              "RelativeToolTip": "agprac\\add.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-22T17:40:06.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "update.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\update.aspx",
+              "RelativeDocumentMoniker": "agprac\\update.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\agprac\\agprac\\update.aspx",
+              "RelativeToolTip": "agprac\\update.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-22T17:39:52.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
