@@ -1,0 +1,16 @@
+﻿body {
+    margin: 0;
+    padding: 0; 
+}
+.center-label {
+    display: block; /* VERY IMPORTANT */
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.pdd {
+    padding: 2px;
+    border:1px solid black;
+    margin-left:10px;
+    border-radius:60px;
+}

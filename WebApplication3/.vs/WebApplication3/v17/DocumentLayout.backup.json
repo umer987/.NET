@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\UMER\\source\\repos\\WebApplication3\\webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|C:\\Users\\UMER\\source\\repos\\WebApplication3\\webapplication3\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|c:\\users\\umer\\source\\repos\\webapplication3\\webapplication3\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\update.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|c:\\users\\umer\\source\\repos\\webapplication3\\webapplication3\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\add.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|c:\\users\\umer\\source\\repos\\webapplication3\\webapplication3\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|c:\\users\\umer\\source\\repos\\webapplication3\\webapplication3\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9AF1BF9C-28FB-4CF9-8E71-5F411824F68A}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\add.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADD.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\ADD.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\ADD.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\ADD.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\ADD.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:52:37.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ADD.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\ADD.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\ADD.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\ADD.aspx",
+              "RelativeToolTip": "WebApplication3\\ADD.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-12T18:52:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DELETE.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\DELETE.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\DELETE.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\DELETE.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\DELETE.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:45:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UPDATE.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\UPDATE.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\UPDATE.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\UPDATE.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\UPDATE.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:42:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UPDATE.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\UPDATE.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\UPDATE.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\UPDATE.aspx",
+              "RelativeToolTip": "WebApplication3\\UPDATE.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-12T05:59:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication3\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-12T10:57:06.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
