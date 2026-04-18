@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|c:\\users\\umer\\source\\repos\\emp_mvc\\emp_mvc\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|solutionrelative:emp_mvc\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|c:\\users\\umer\\source\\repos\\emp_mvc\\emp_mvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|solutionrelative:emp_mvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|c:\\users\\umer\\source\\repos\\emp_mvc\\emp_mvc\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|solutionrelative:emp_mvc\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|c:\\users\\umer\\source\\repos\\emp_mvc\\emp_mvc\\views\\emp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|solutionrelative:emp_mvc\\views\\emp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|c:\\users\\umer\\source\\repos\\emp_mvc\\emp_mvc\\views\\emp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0358E593-7DE4-4A8C-A266-CDDB30F92B5B}|emp_mvc\\emp_mvc.csproj|solutionrelative:emp_mvc\\views\\emp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Details.cshtml",
+              "RelativeDocumentMoniker": "emp_mvc\\Views\\emp\\Details.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Details.cshtml",
+              "RelativeToolTip": "emp_mvc\\Views\\emp\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T18:46:33.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "emp_mvc\\Views\\emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Index.cshtml",
+              "RelativeToolTip": "emp_mvc\\Views\\emp\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T18:40:11.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Models\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "emp_mvc\\Models\\DataClasses1.dbml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Models\\DataClasses1.dbml",
+              "RelativeToolTip": "emp_mvc\\Models\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-01-21T18:29:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Delete.cshtml",
+              "RelativeDocumentMoniker": "emp_mvc\\Views\\emp\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Views\\emp\\Delete.cshtml",
+              "RelativeToolTip": "emp_mvc\\Views\\emp\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T18:25:45.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "empController.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Controllers\\empController.cs",
+              "RelativeDocumentMoniker": "emp_mvc\\Controllers\\empController.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\emp_mvc\\emp_mvc\\Controllers\\empController.cs",
+              "RelativeToolTip": "emp_mvc\\Controllers\\empController.cs",
+              "ViewState": "AgIAAAYAAACAMDMzMzMrwBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:23:39.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
