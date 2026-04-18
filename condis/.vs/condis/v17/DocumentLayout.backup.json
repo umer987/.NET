@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\condis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|c:\\users\\umer\\source\\repos\\condis\\condis\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|solutionrelative:condis\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|c:\\users\\umer\\source\\repos\\condis\\condis\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|solutionrelative:condis\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|c:\\users\\umer\\source\\repos\\condis\\condis\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{0B7908D9-D5D7-4FA2-B839-135C2AA527DF}|condis\\condis.csproj|solutionrelative:condis\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "condis\\DataClasses1.dbml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\DataClasses1.dbml",
+              "RelativeToolTip": "condis\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-01-19T19:12:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "condis\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\WebForm1.aspx.cs",
+              "RelativeToolTip": "condis\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA8wBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T19:06:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "condis\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\condis\\condis\\WebForm1.aspx",
+              "RelativeToolTip": "condis\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-19T19:03:11.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
