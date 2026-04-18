@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\controllers\\stdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\controllers\\stdcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\views\\std\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\views\\std\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\views\\std\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\views\\std\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\views\\std\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\views\\std\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\views\\std\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\views\\std\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|c:\\users\\umer\\source\\repos\\mvcstudent\\mvcstudent\\views\\std\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{983E7183-E03F-4828-A537-6C5147D76CDB}|mvcstudent\\mvcstudent.csproj|solutionrelative:mvcstudent\\views\\std\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mvcstudent\\Views\\std\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Delete.cshtml",
+              "RelativeToolTip": "mvcstudent\\Views\\std\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:18:00.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvcstudent\\Views\\std\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Edit.cshtml",
+              "RelativeToolTip": "mvcstudent\\Views\\std\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:17:42.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvcstudent\\Views\\std\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Create.cshtml",
+              "RelativeToolTip": "mvcstudent\\Views\\std\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:17:20.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvcstudent\\Views\\std\\Details.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Details.cshtml",
+              "RelativeToolTip": "mvcstudent\\Views\\std\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:16:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcstudent\\Views\\std\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Views\\std\\Index.cshtml",
+              "RelativeToolTip": "mvcstudent\\Views\\std\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:16:41.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stdController.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Controllers\\stdController.cs",
+              "RelativeDocumentMoniker": "mvcstudent\\Controllers\\stdController.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\mvcstudent\\mvcstudent\\Controllers\\stdController.cs",
+              "RelativeToolTip": "mvcstudent\\Controllers\\stdController.cs",
+              "ViewState": "AgIAAD0AAAAAKTMzMzMbwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:16:04.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
