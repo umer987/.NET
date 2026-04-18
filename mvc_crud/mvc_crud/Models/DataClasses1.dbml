@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="hospital" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.doctors" Member="doctors">
+    <Type Name="doctor">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="doc_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="doc_speciality" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="doc_age" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
