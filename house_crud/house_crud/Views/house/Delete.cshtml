@@ -1,0 +1,48 @@
+﻿@model house_crud.Models.house
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>house</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.owner_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.owner_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.house_address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.house_address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nearest_place)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nearest_place)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="housemanagment" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.houses" Member="houses">
+    <Type Name="house">
+      <Column Name="house_number" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="owner_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="house_address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="nearest_place" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

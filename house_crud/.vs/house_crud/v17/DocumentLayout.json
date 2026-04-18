@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMER\\source\\repos\\house_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|c:\\users\\umer\\source\\repos\\house_crud\\house_crud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|solutionrelative:house_crud\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|c:\\users\\umer\\source\\repos\\house_crud\\house_crud\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|solutionrelative:house_crud\\views\\house\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|c:\\users\\umer\\source\\repos\\house_crud\\house_crud\\views\\house\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|solutionrelative:house_crud\\views\\house\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|c:\\users\\umer\\source\\repos\\house_crud\\house_crud\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|solutionrelative:house_crud\\views\\house\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|c:\\users\\umer\\source\\repos\\house_crud\\house_crud\\views\\house\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46BD663D-DCD9-418D-B8A6-3EB87ED17B69}|house_crud\\house_crud.csproj|solutionrelative:house_crud\\views\\house\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Delete.cshtml",
+              "RelativeDocumentMoniker": "house_crud\\Views\\house\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Delete.cshtml",
+              "RelativeToolTip": "house_crud\\Views\\house\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:12:37.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Edit.cshtml",
+              "RelativeDocumentMoniker": "house_crud\\Views\\house\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Edit.cshtml",
+              "RelativeToolTip": "house_crud\\Views\\house\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:12:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Create.cshtml",
+              "RelativeDocumentMoniker": "house_crud\\Views\\house\\Create.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Create.cshtml",
+              "RelativeToolTip": "house_crud\\Views\\house\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:11:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Index.cshtml",
+              "RelativeDocumentMoniker": "house_crud\\Views\\house\\Index.cshtml",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Views\\house\\Index.cshtml",
+              "RelativeToolTip": "house_crud\\Views\\house\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:11:01.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "houseController.cs",
+              "DocumentMoniker": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Controllers\\houseController.cs",
+              "RelativeDocumentMoniker": "house_crud\\Controllers\\houseController.cs",
+              "ToolTip": "C:\\Users\\UMER\\source\\repos\\house_crud\\house_crud\\Controllers\\houseController.cs",
+              "RelativeToolTip": "house_crud\\Controllers\\houseController.cs",
+              "ViewState": "AgIAAE8AAAAA5////78hwGEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:09:32.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
