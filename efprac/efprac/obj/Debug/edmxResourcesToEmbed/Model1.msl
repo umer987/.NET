@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="house_efModelStoreContainer" CdmEntityContainer="house_efEntities1">
+    <EntitySetMapping Name="house_records">
+      <EntityTypeMapping TypeName="house_efModel.house_records">
+        <MappingFragment StoreEntitySet="house_records">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="owner_name" ColumnName="owner_name" />
+          <ScalarProperty Name="house_address" ColumnName="house_address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
